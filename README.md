@@ -1,5 +1,5 @@
 # UGRI Project (IIT Jodhpur)
-Realtime Lightweight Object Detection On Nvidia Jetson Nano (Work done at IIT Jodhpur)
+Realtime Lightweight Object Detection On Nvidia Jetson Nano to be deployed on drone efficiently (Work done at IIT Jodhpur)
 
 NOTE: This work was done before Nvidia Jetson Nano was officially released in India.
 
@@ -24,6 +24,26 @@ I used this forked version of darknet's YOLO :
 https://github.com/AlexeyAB/darknet
 
 ## Screenshots for various usage tests:
+### Setup for Jetson Nano
+<img src="screenshots/setup.jpg" width="600" height="400" title="setup">
+
+### Resources Test 1 of Jetson Nano
+<img src="screenshots/cpu.png" title="cpu">
+
+### Testing Jetson Nano for Search and Rescue Ops
+<img src="screenshots/rescue.png" title="search">
+
+<img src="screenshots/search.jpg" title="search">
+
+### Test in Hostel
+<img src="screenshots/hostel.jpg" title="hostel">
+
+### Usage Resources Test 2 of Jetson Nano
+<img src="screenshots/usage.png" title="usage">
+
+### Final Test of Jetson Nano with Raspberry Pi Cam v2
+<img src="screenshots/yo.jpg" width="600" height="400" title="camtest">
+
 
 ### To train a model,
 Use the command :

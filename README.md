@@ -1,4 +1,4 @@
-# ugri-project
+# UGRI Project (IIT Jodhpur)
 Realtime Lightweight Object Detection On Nvidia Jetson Nano (Work done at IIT Jodhpur)
 
 NOTE: This work was done before Nvidia Jetson Nano was officially released in India.
@@ -23,7 +23,7 @@ The parameters are :
 I used this forked version of darknet's YOLO :
 https://github.com/AlexeyAB/darknet
 
-##Screenshots for various usage tests:
+## Screenshots for various usage tests:
 
 ### To train a model,
 Use the command :
